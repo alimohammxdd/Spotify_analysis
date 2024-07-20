@@ -1,7 +1,4 @@
 <h1>Spotify Data Analysis Python Project🎼🎧</h1>
-<img width="400" alt="Coding" src="https://github.com/Mariyajoseph24/Spotify_Data_Analysis_Python_Project/assets/91487663/43749cf9-4eb1-476c-89ea-bf1625b17168">
-<h1>Contents📖</h1>
-
 <h1><a name="introduction">Introduction</a></h1>
 <p>The Spotify Data Analysis Project: In todays changing world data analysis has become crucial in fields such, as business, research and meteorology. This project showcases the role that data plays in making decisions advancing research initiatives and even predicting weather patterns.
 
